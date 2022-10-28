@@ -1,0 +1,15 @@
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\bin\Debug\net6.0\ConsoleCube.exe
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\bin\Debug\net6.0\ConsoleCube.deps.json
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\bin\Debug\net6.0\ConsoleCube.runtimeconfig.json
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\bin\Debug\net6.0\ConsoleCube.dll
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\bin\Debug\net6.0\ConsoleCube.pdb
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.csproj.AssemblyReference.cache
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.AssemblyInfoInputs.cache
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.AssemblyInfo.cs
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.csproj.CoreCompileInputs.cache
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.dll
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\refint\ConsoleCube.dll
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.pdb
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ConsoleCube.genruntimeconfig.cache
+C:\Users\Timoffeus\source\repos\ConsoleCube\ConsoleCube\obj\Debug\net6.0\ref\ConsoleCube.dll

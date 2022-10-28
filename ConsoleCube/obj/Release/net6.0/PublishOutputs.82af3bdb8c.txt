@@ -1,0 +1,5 @@
+C:\Users\Timoffeus\Documents\projects\ConsoleCube.exe
+C:\Users\Timoffeus\Documents\projects\ConsoleCube.dll
+C:\Users\Timoffeus\Documents\projects\ConsoleCube.deps.json
+C:\Users\Timoffeus\Documents\projects\ConsoleCube.runtimeconfig.json
+C:\Users\Timoffeus\Documents\projects\ConsoleCube.pdb
